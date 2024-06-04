@@ -1,0 +1,15 @@
+.footer {
+    display: flex;
+    justify-content: center;
+    color: grey;
+    font-size: 1.1rem;
+    padding: 1rem;
+    gap: .3rem;
+    padding-top: 2rem;
+}
+
+.footer a {
+    text-decoration: none;
+    color: grey;
+    font-size: 1.8rem;
+}
